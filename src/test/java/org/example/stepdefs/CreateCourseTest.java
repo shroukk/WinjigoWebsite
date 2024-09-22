@@ -8,10 +8,7 @@ import org.example.pages.P01_LoginPage;
 import org.example.pages.P02_CoursesPage;
 import org.example.pages.P03_CourseFormPage;
 import org.junit.Assert;
-import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.time.Duration;
 
 public class CreateCourseTest {
     private P01_LoginPage loginPage;
